@@ -1,0 +1,57 @@
+{
+  "slug": "all-in-one-event-management-mattannur",
+  "name": "All IN ONE EVENT MANAGEMENT",
+  "shortName": "All IN ONE",
+  "descriptor": "Event Management",
+  "address": "All in one EVENTS, Mattannur, Kotheri, Keralam 670702",
+  "area": "Mattannur",
+  "city": "Mattannur",
+  "district": "Kannur",
+  "region": "Kerala",
+  "postalCode": "670702",
+  "geo": {
+    "lat": 11.929210699999999,
+    "lng": 75.5584519
+  },
+  "mapsLink": "https://maps.google.com/?cid=652615627863912585",
+  "phone": "+91 89211 27397",
+  "whatsapp": "918921127397",
+  "instagram": "https://www.instagram.com/all_in_one_eve.nts",
+  "rating": 5,
+  "reviewCount": 19,
+  "reviews": [
+    {
+      "name": "Nived",
+      "rating": 5,
+      "quote": "Highly recommend. The crowd management was excellent, and all our guests had a fantastic time. Thank you for making our event a huge success!\""
+    },
+    {
+      "name": "rajeshthazheveetil@gmail.com tv",
+      "rating": 5,
+      "quote": "Great experience with this awesome event team. They managed our reception well planned and execution. Thanks alot"
+    },
+    {
+      "name": "Anugrah Pk",
+      "rating": 5,
+      "quote": "I had recently called them for my sisters wedding so good work keep it up guyss"
+    },
+    {
+      "name": "Yadhu Krishna",
+      "rating": 5,
+      "quote": "Nice team their stage food section catering services are good"
+    },
+    {
+      "name": "ANURAG VIJAYAN",
+      "rating": 5,
+      "quote": "Excellent behavior of staff and good quality stage works"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://all-in-one-event-management-mattann.vercel.app"
+}
