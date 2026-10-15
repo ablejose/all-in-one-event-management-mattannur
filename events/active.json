@@ -1,8 +1,8 @@
 {
   "slug": "all-in-one-event-management-mattannur",
   "name": "All IN ONE EVENT MANAGEMENT",
-  "shortName": "All IN ONE",
-  "descriptor": "Event Management",
+  "shortName": "All In One",
+  "descriptor": "Events",
   "variant": "events",
   "headline": "Stages, décor and every detail — handled.",
   "address": "All in one EVENTS, Mattannur, Kotheri, Keralam 670702",
@@ -49,11 +49,1357 @@
     }
   ],
   "gallery": [
+    {
+      "src": "gallery/decor-01.webp",
+      "alt": "Wedding mandap with draped pillars, roses and brass lamps"
+    },
+    {
+      "src": "gallery/decor-02.webp",
+      "alt": "White arched wedding stage with greenery and chandeliers"
+    },
+    {
+      "src": "gallery/decor-03.webp",
+      "alt": "Golden carved stage with a Radha-Krishna backdrop and red roses"
+    },
+    {
+      "src": "gallery/decor-04.webp",
+      "alt": "Stage under a canopy of flowers with glowing white panels"
+    },
+    {
+      "src": "gallery/decor-05.webp",
+      "alt": "Stage with glowing shell-shaped panels against black drapes"
+    },
     "gallery/01.webp",
     "gallery/02.webp",
     "gallery/03.webp",
     "gallery/04.webp",
     "gallery/05.webp"
+  ],
+  "theme": {
+    "primary": "#C9A35B",
+    "accent": "#9E7A35"
+  },
+  "media": {
+    "heroSlides": [
+      {
+        "src": "hero/01.webp",
+        "alt": "Wedding mandap with draped pillars, roses and brass lamps under warm red light"
+      },
+      {
+        "src": "hero/02.webp",
+        "alt": "White arched wedding stage with greenery, chandeliers and a cream sofa"
+      },
+      {
+        "src": "hero/03.webp",
+        "alt": "Stage under a canopy of flowers with glowing white panels and a blue sofa"
+      }
+    ],
+    "about": [
+      {
+        "src": "about-1.webp",
+        "alt": "Golden carved stage with a Radha-Krishna backdrop and red rose garlands"
+      },
+      {
+        "src": "about-2.webp",
+        "alt": "Stage with glowing shell-shaped panels and white flowers"
+      }
+    ],
+    "logoMark": "brand/logo-mark.png",
+    "ogImage": "og-image.jpg",
+    "brandDir": "brand",
+    "reel": {
+      "src": "videos/reel.mp4",
+      "poster": "videos/reel.webp",
+      "alt": "Outdoor wedding venue at night under a canopy of fairy lights, with a red carpet aisle to the stage"
+    }
+  },
+  "serviceImages": {
+    "wedding-catering": "menu/sadya-wide.webp",
+    "event-management": "gallery/decor-02.webp",
+    "bulk-catering": "gallery/decor-04.webp"
+  },
+  "menu": [
+    {
+      "id": "soups",
+      "title": "Soups",
+      "items": [
+        {
+          "id": "chicken-soup",
+          "name": "Chicken Soup",
+          "veg": false
+        },
+        {
+          "id": "chicken-noodle-soup",
+          "name": "Chicken Noodle Soup",
+          "veg": false
+        },
+        {
+          "id": "mutton-soup",
+          "name": "Mutton Soup",
+          "veg": false
+        },
+        {
+          "id": "hot-sour-chicken-soup",
+          "name": "Hot & Sour Chicken Soup",
+          "veg": false
+        },
+        {
+          "id": "sweet-corn-chicken-soup",
+          "name": "Sweet Corn Chicken Soup",
+          "veg": false
+        },
+        {
+          "id": "cream-of-chicken-soup",
+          "name": "Cream of Chicken Soup",
+          "veg": false
+        },
+        {
+          "id": "prawns-noodle-soup",
+          "name": "Prawns Noodle Soup",
+          "veg": false
+        },
+        {
+          "id": "talumein-chicken-soup",
+          "name": "Talumein Chicken Soup",
+          "veg": false
+        },
+        {
+          "id": "sweet-corn-egg-soup",
+          "name": "Sweet Corn Egg Soup",
+          "veg": false
+        },
+        {
+          "id": "tomato-egg-drop-soup",
+          "name": "Tomato Egg Drop Soup",
+          "veg": false
+        },
+        {
+          "id": "tomato-soup",
+          "name": "Tomato Soup",
+          "veg": true
+        },
+        {
+          "id": "cream-of-tomato-soup",
+          "name": "Cream of Tomato Soup",
+          "veg": true
+        },
+        {
+          "id": "sliced-veg-with-mushroom-soup",
+          "name": "Sliced Veg with Mushroom Soup",
+          "veg": true
+        },
+        {
+          "id": "mushroom-soup",
+          "name": "Mushroom Soup",
+          "veg": true
+        },
+        {
+          "id": "cream-of-mushroom-soup",
+          "name": "Cream of Mushroom Soup",
+          "veg": true
+        },
+        {
+          "id": "vegetable-noodle-soup",
+          "name": "Vegetable Noodle Soup",
+          "veg": true
+        },
+        {
+          "id": "sweet-corn-plain-soup",
+          "name": "Sweet Corn Plain Soup",
+          "veg": true
+        },
+        {
+          "id": "hot-sour-veg-soup",
+          "name": "Hot & Sour Veg Soup",
+          "veg": true
+        },
+        {
+          "id": "mixed-vegetable-soup",
+          "name": "Mixed Vegetable Soup",
+          "veg": true
+        }
+      ]
+    },
+    {
+      "id": "starters",
+      "title": "Starters",
+      "items": [
+        {
+          "id": "prawn-fry",
+          "name": "Prawn Fry",
+          "veg": false
+        },
+        {
+          "id": "chicken-65",
+          "name": "Chicken 65",
+          "veg": false
+        },
+        {
+          "id": "chicken-spring-roll",
+          "name": "Chicken Spring Roll",
+          "veg": false
+        },
+        {
+          "id": "chicken-lollipop",
+          "name": "Chicken Lollipop",
+          "veg": false
+        },
+        {
+          "id": "beef-balls-in-hot-garlic-sauce",
+          "name": "Beef Balls in Hot Garlic Sauce",
+          "veg": false
+        },
+        {
+          "id": "beef-chilli",
+          "name": "Beef Chilli",
+          "veg": false
+        },
+        {
+          "id": "gobi-65",
+          "name": "Gobi 65",
+          "veg": true
+        },
+        {
+          "id": "veg-spring-roll",
+          "name": "Veg Spring Roll",
+          "veg": true
+        },
+        {
+          "id": "cocktail-sandwiches",
+          "name": "Cocktail Sandwiches"
+        },
+        {
+          "id": "cocktail-samosa",
+          "name": "Cocktail Samosa"
+        },
+        {
+          "id": "mysore-bonda",
+          "name": "Mysore Bonda",
+          "veg": true
+        },
+        {
+          "id": "vegetable-pakkavada",
+          "name": "Vegetable Pakkavada",
+          "veg": true
+        },
+        {
+          "id": "cocktail-masala-vada",
+          "name": "Cocktail Masala Vada",
+          "veg": true
+        }
+      ]
+    },
+    {
+      "id": "sadya",
+      "title": "Kerala Sadya",
+      "items": [
+        {
+          "id": "upperi",
+          "name": "Upperi",
+          "veg": true
+        },
+        {
+          "id": "sarkkaravaratty",
+          "name": "Sarkkaravaratty",
+          "veg": true
+        },
+        {
+          "id": "parippum-neyyum",
+          "name": "Parippum Neyyum",
+          "veg": true
+        },
+        {
+          "id": "inji-curry",
+          "name": "Inji Curry",
+          "veg": true
+        },
+        {
+          "id": "naranga-achar",
+          "name": "Naranga Achar",
+          "veg": true
+        },
+        {
+          "id": "manga-achar",
+          "name": "Manga Achar",
+          "veg": true
+        },
+        {
+          "id": "pachadi",
+          "name": "Pachadi",
+          "veg": true
+        },
+        {
+          "id": "kichadi",
+          "name": "Kichadi",
+          "veg": true
+        },
+        {
+          "id": "kalan",
+          "name": "Kalan",
+          "veg": true
+        },
+        {
+          "id": "olan",
+          "name": "Olan",
+          "veg": true
+        },
+        {
+          "id": "avial",
+          "name": "Avial",
+          "veg": true
+        },
+        {
+          "id": "thoran",
+          "name": "Thoran",
+          "veg": true
+        },
+        {
+          "id": "erissery",
+          "name": "Erissery",
+          "veg": true
+        },
+        {
+          "id": "koottu-curry",
+          "name": "Koottu Curry",
+          "veg": true
+        },
+        {
+          "id": "thakkali-curry",
+          "name": "Thakkali Curry",
+          "veg": true
+        },
+        {
+          "id": "kootherissery",
+          "name": "Kootherissery",
+          "veg": true
+        },
+        {
+          "id": "masala-curry",
+          "name": "Masala Curry",
+          "veg": true
+        },
+        {
+          "id": "sambar",
+          "name": "Sambar",
+          "veg": true
+        },
+        {
+          "id": "pulissery",
+          "name": "Pulissery",
+          "veg": true
+        },
+        {
+          "id": "rasam",
+          "name": "Rasam",
+          "veg": true
+        },
+        {
+          "id": "thairu",
+          "name": "Thairu",
+          "veg": true
+        },
+        {
+          "id": "kondattam",
+          "name": "Kondattam",
+          "veg": true
+        },
+        {
+          "id": "mulaku",
+          "name": "Mulaku",
+          "veg": true
+        },
+        {
+          "id": "moru",
+          "name": "Moru",
+          "veg": true
+        },
+        {
+          "id": "rice-ponni",
+          "name": "Rice (Ponni)",
+          "veg": true
+        },
+        {
+          "id": "cherumani-kuthari",
+          "name": "Cherumani (Kuthari)",
+          "veg": true
+        },
+        {
+          "id": "pappadam",
+          "name": "Pappadam",
+          "veg": true
+        },
+        {
+          "id": "pazham",
+          "name": "Pazham",
+          "veg": true
+        },
+        {
+          "id": "palada-payasam",
+          "name": "Palada Payasam",
+          "veg": true
+        },
+        {
+          "id": "parippu-payasam",
+          "name": "Parippu Payasam",
+          "veg": true
+        },
+        {
+          "id": "gothambu-payasam",
+          "name": "Gothambu Payasam",
+          "veg": true
+        },
+        {
+          "id": "pazham-payasam",
+          "name": "Pazham Payasam",
+          "veg": true
+        },
+        {
+          "id": "semiya-payasam",
+          "name": "Semiya Payasam",
+          "veg": true
+        }
+      ],
+      "image": "menu/sadya.webp"
+    },
+    {
+      "id": "kerala-feast",
+      "title": "Kerala Feast",
+      "items": [
+        {
+          "id": "appam",
+          "name": "Appam",
+          "veg": true
+        },
+        {
+          "id": "ishtu-stew",
+          "name": "Ishtu (Stew)"
+        },
+        {
+          "id": "chicken",
+          "name": "Chicken",
+          "veg": false
+        },
+        {
+          "id": "cutlet",
+          "name": "Cutlet"
+        },
+        {
+          "id": "meen-vattichathu",
+          "name": "Meen Vattichathu",
+          "veg": false
+        },
+        {
+          "id": "beef-ulathu",
+          "name": "Beef Ulathu",
+          "veg": false
+        },
+        {
+          "id": "tharavu-curry",
+          "name": "Tharavu Curry",
+          "veg": false
+        },
+        {
+          "id": "chemmeen-podi",
+          "name": "Chemmeen Podi",
+          "veg": false
+        },
+        {
+          "id": "rice",
+          "name": "Rice",
+          "veg": true
+        },
+        {
+          "id": "charu-curry",
+          "name": "Charu Curry",
+          "veg": true
+        },
+        {
+          "id": "kerala-feast-thoran",
+          "name": "Thoran",
+          "veg": true
+        },
+        {
+          "id": "inchi-curry",
+          "name": "Inchi Curry",
+          "veg": true
+        },
+        {
+          "id": "achar",
+          "name": "Achar",
+          "veg": true
+        },
+        {
+          "id": "chammanthi-podi",
+          "name": "Chammanthi Podi",
+          "veg": true
+        },
+        {
+          "id": "sauce",
+          "name": "Sauce",
+          "veg": true
+        },
+        {
+          "id": "salads",
+          "name": "Salads",
+          "veg": true
+        },
+        {
+          "id": "drinking-water",
+          "name": "Drinking Water",
+          "veg": true
+        }
+      ]
+    },
+    {
+      "id": "biriyani",
+      "title": "Biriyani & Rice",
+      "items": [
+        {
+          "id": "chicken-biriyani",
+          "name": "Chicken Biriyani",
+          "veg": false
+        },
+        {
+          "id": "mutton-biriyani",
+          "name": "Mutton Biriyani",
+          "veg": false
+        },
+        {
+          "id": "beef-biriyani",
+          "name": "Beef Biriyani",
+          "veg": false
+        },
+        {
+          "id": "fish-biriyani",
+          "name": "Fish Biriyani",
+          "veg": false
+        },
+        {
+          "id": "prawns-biriyani",
+          "name": "Prawns Biriyani",
+          "veg": false
+        },
+        {
+          "id": "egg-biriyani",
+          "name": "Egg Biriyani",
+          "veg": false
+        },
+        {
+          "id": "hyderabadi-biriyani",
+          "name": "Hyderabadi Biriyani",
+          "veg": false
+        },
+        {
+          "id": "ghee-rice",
+          "name": "Ghee Rice",
+          "veg": true
+        },
+        {
+          "id": "jeera-rice",
+          "name": "Jeera Rice",
+          "veg": true
+        },
+        {
+          "id": "curd-rice",
+          "name": "Curd Rice",
+          "veg": true
+        },
+        {
+          "id": "steamed-rice",
+          "name": "Steamed Rice",
+          "veg": true
+        },
+        {
+          "id": "green-peas-rice",
+          "name": "Green Peas Rice",
+          "veg": true
+        },
+        {
+          "id": "lemon-rice",
+          "name": "Lemon Rice",
+          "veg": true
+        },
+        {
+          "id": "kashmiri-pulav",
+          "name": "Kashmiri Pulav",
+          "veg": true
+        },
+        {
+          "id": "veg-pulav",
+          "name": "Veg Pulav",
+          "veg": true
+        },
+        {
+          "id": "jarda-pulav",
+          "name": "Jarda Pulav",
+          "veg": true
+        },
+        {
+          "id": "paneer-pulav",
+          "name": "Paneer Pulav",
+          "veg": true
+        }
+      ]
+    },
+    {
+      "id": "grills",
+      "title": "Al Faham & Grills",
+      "items": [
+        {
+          "id": "al-faham-indian",
+          "name": "Al Faham — Indian",
+          "veg": false
+        },
+        {
+          "id": "al-faham-arabian",
+          "name": "Al Faham — Arabian",
+          "veg": false
+        },
+        {
+          "id": "grilled-fish",
+          "name": "Grilled Fish",
+          "veg": false
+        },
+        {
+          "id": "tikka-chicken-meat",
+          "name": "Tikka (Chicken / Meat)",
+          "veg": false
+        },
+        {
+          "id": "live-shawarma",
+          "name": "Live Shawarma",
+          "veg": false
+        }
+      ],
+      "image": "menu/grills.webp"
+    },
+    {
+      "id": "arabian",
+      "title": "Arabian",
+      "items": [
+        {
+          "id": "chicken-mandi",
+          "name": "Chicken Mandi",
+          "veg": false
+        },
+        {
+          "id": "mutton-mandi",
+          "name": "Mutton Mandi",
+          "veg": false
+        },
+        {
+          "id": "chicken-kabsa",
+          "name": "Chicken Kabsa",
+          "veg": false
+        },
+        {
+          "id": "mutton-kabsa",
+          "name": "Mutton Kabsa",
+          "veg": false
+        },
+        {
+          "id": "fish-kabsa",
+          "name": "Fish Kabsa",
+          "veg": false
+        },
+        {
+          "id": "chicken-bukhari",
+          "name": "Chicken Bukhari",
+          "veg": false
+        },
+        {
+          "id": "mutton-bukhari",
+          "name": "Mutton Bukhari",
+          "veg": false
+        },
+        {
+          "id": "chicken-mugalgal",
+          "name": "Chicken Mugalgal",
+          "veg": false
+        },
+        {
+          "id": "mutton-mugalgal",
+          "name": "Mutton Mugalgal",
+          "veg": false
+        },
+        {
+          "id": "chicken-madheeni",
+          "name": "Chicken Madheeni",
+          "veg": false
+        },
+        {
+          "id": "mutton-madheeni",
+          "name": "Mutton Madheeni",
+          "veg": false
+        },
+        {
+          "id": "chicken-malhooth",
+          "name": "Chicken Malhooth",
+          "veg": false
+        },
+        {
+          "id": "mutton-malhooth",
+          "name": "Mutton Malhooth",
+          "veg": false
+        },
+        {
+          "id": "chicken-majboos",
+          "name": "Chicken Majboos",
+          "veg": false
+        },
+        {
+          "id": "mutton-mashoy",
+          "name": "Mutton Mashoy",
+          "veg": false
+        },
+        {
+          "id": "barbeque",
+          "name": "Barbeque",
+          "veg": false
+        },
+        {
+          "id": "arabic-rice",
+          "name": "Arabic Rice",
+          "veg": true
+        },
+        {
+          "id": "kubboos",
+          "name": "Kubboos",
+          "veg": true
+        }
+      ]
+    },
+    {
+      "id": "malabar-mains",
+      "title": "Malabar Breads & Mains",
+      "items": [
+        {
+          "id": "wheat-coin-porotta",
+          "name": "Wheat Coin Porotta",
+          "veg": true
+        },
+        {
+          "id": "aalu-porotta",
+          "name": "Aalu Porotta",
+          "veg": true
+        },
+        {
+          "id": "puzhukkal-orotti",
+          "name": "Puzhukkal Orotti"
+        },
+        {
+          "id": "orotti",
+          "name": "Orotti",
+          "veg": true
+        },
+        {
+          "id": "madakku-chappathi",
+          "name": "Madakku Chappathi",
+          "veg": true
+        },
+        {
+          "id": "palak-chappathi",
+          "name": "Palak Chappathi",
+          "veg": true
+        },
+        {
+          "id": "keema-chappathi",
+          "name": "Keema Chappathi",
+          "veg": false
+        },
+        {
+          "id": "chemmeen-chappathi",
+          "name": "Chemmeen Chappathi",
+          "veg": false
+        },
+        {
+          "id": "kakko-rotti",
+          "name": "Kakko Rotti"
+        },
+        {
+          "id": "irachi-pathiri",
+          "name": "Irachi Pathiri",
+          "veg": false
+        },
+        {
+          "id": "chatti-pathiri",
+          "name": "Chatti Pathiri",
+          "veg": false
+        },
+        {
+          "id": "thurki-pathiri",
+          "name": "Thurki Pathiri",
+          "veg": false
+        },
+        {
+          "id": "irachi-puttu",
+          "name": "Irachi Puttu",
+          "veg": false
+        },
+        {
+          "id": "chemmeen-puttu",
+          "name": "Chemmeen Puttu",
+          "veg": false
+        },
+        {
+          "id": "mani-puttu",
+          "name": "Mani Puttu"
+        },
+        {
+          "id": "aleesa",
+          "name": "Aleesa",
+          "veg": false
+        },
+        {
+          "id": "malabar-irachi-pola",
+          "name": "Malabar Irachi Pola",
+          "veg": false
+        },
+        {
+          "id": "arabian-chicken-pathayar",
+          "name": "Arabian Chicken Pathayar",
+          "veg": false
+        },
+        {
+          "id": "malabar-dum-biriyani",
+          "name": "Malabar Dum Biriyani",
+          "veg": false
+        }
+      ]
+    },
+    {
+      "id": "malabar-snacks",
+      "title": "Malabar Snacks",
+      "items": [
+        {
+          "id": "unnakkaya",
+          "name": "Unnakkaya",
+          "veg": true
+        },
+        {
+          "id": "kalthappam",
+          "name": "Kalthappam",
+          "veg": true
+        },
+        {
+          "id": "kinnathappam",
+          "name": "Kinnathappam",
+          "veg": true
+        },
+        {
+          "id": "pazham-nirachathu",
+          "name": "Pazham Nirachathu",
+          "veg": true
+        },
+        {
+          "id": "kayi-ada",
+          "name": "Kayi Ada",
+          "veg": true
+        },
+        {
+          "id": "kadala-parippunda",
+          "name": "Kadala Parippunda",
+          "veg": true
+        },
+        {
+          "id": "vatteppam",
+          "name": "Vatteppam",
+          "veg": true
+        },
+        {
+          "id": "sweet-cutlet",
+          "name": "Sweet Cutlet"
+        },
+        {
+          "id": "kilikkoodu",
+          "name": "Kilikkoodu",
+          "veg": false
+        },
+        {
+          "id": "muttamala",
+          "name": "Muttamala",
+          "veg": false
+        },
+        {
+          "id": "mutta-surka",
+          "name": "Mutta Surka",
+          "veg": false
+        },
+        {
+          "id": "chemmeen-mutta-surka",
+          "name": "Chemmeen Mutta Surka",
+          "veg": false
+        },
+        {
+          "id": "irachi-mutta-surka",
+          "name": "Irachi Mutta Surka",
+          "veg": false
+        },
+        {
+          "id": "kayipola",
+          "name": "Kayipola",
+          "veg": false
+        },
+        {
+          "id": "irachi-sukhiyan",
+          "name": "Irachi Sukhiyan",
+          "veg": false
+        },
+        {
+          "id": "chemmeen-ada",
+          "name": "Chemmeen Ada",
+          "veg": false
+        },
+        {
+          "id": "chicken-cake",
+          "name": "Chicken Cake",
+          "veg": false
+        },
+        {
+          "id": "chicken-pillow",
+          "name": "Chicken Pillow",
+          "veg": false
+        },
+        {
+          "id": "chicken-ball",
+          "name": "Chicken Ball",
+          "veg": false
+        },
+        {
+          "id": "meat-ball",
+          "name": "Meat Ball",
+          "veg": false
+        },
+        {
+          "id": "fish-ball",
+          "name": "Fish Ball",
+          "veg": false
+        },
+        {
+          "id": "egg-kabab",
+          "name": "Egg Kabab",
+          "veg": false
+        },
+        {
+          "id": "mutton-puffs",
+          "name": "Mutton Puffs",
+          "veg": false
+        },
+        {
+          "id": "arikadukka-kallummakkaya",
+          "name": "Arikadukka (Kallummakkaya)",
+          "veg": false
+        },
+        {
+          "id": "arabian-flower",
+          "name": "Arabian Flower"
+        },
+        {
+          "id": "kozhikal",
+          "name": "Kozhikal"
+        },
+        {
+          "id": "noodles-kabab",
+          "name": "Noodles Kabab"
+        },
+        {
+          "id": "spring-roll",
+          "name": "Spring Roll"
+        }
+      ]
+    },
+    {
+      "id": "dosa",
+      "title": "Dosa Counter",
+      "items": [
+        {
+          "id": "plain-dosa",
+          "name": "Plain Dosa",
+          "veg": true
+        },
+        {
+          "id": "masala-dosa",
+          "name": "Masala Dosa",
+          "veg": true
+        },
+        {
+          "id": "ghee-roast",
+          "name": "Ghee Roast",
+          "veg": true
+        },
+        {
+          "id": "oothappam",
+          "name": "Oothappam",
+          "veg": true
+        },
+        {
+          "id": "egg-dosa",
+          "name": "Egg Dosa",
+          "veg": false
+        },
+        {
+          "id": "keema-dosa",
+          "name": "Keema Dosa",
+          "veg": false
+        },
+        {
+          "id": "chicken-dosa",
+          "name": "Chicken Dosa",
+          "veg": false
+        },
+        {
+          "id": "chutney",
+          "name": "Chutney",
+          "veg": true
+        },
+        {
+          "id": "dosa-sambar",
+          "name": "Sambar",
+          "veg": true
+        },
+        {
+          "id": "chammandi",
+          "name": "Chammandi",
+          "veg": true
+        }
+      ]
+    },
+    {
+      "id": "thattukada",
+      "title": "Thattukada",
+      "items": [
+        {
+          "id": "kappa",
+          "name": "Kappa",
+          "veg": true
+        },
+        {
+          "id": "puttu",
+          "name": "Puttu",
+          "veg": true
+        },
+        {
+          "id": "kadala-curry",
+          "name": "Kadala Curry",
+          "veg": true
+        },
+        {
+          "id": "thattukada-chammandi",
+          "name": "Chammandi",
+          "veg": true
+        },
+        {
+          "id": "meen-curry",
+          "name": "Meen Curry",
+          "veg": false
+        },
+        {
+          "id": "mathi-porichathu",
+          "name": "Mathi Porichathu",
+          "veg": false
+        },
+        {
+          "id": "omelette",
+          "name": "Omelette",
+          "veg": false
+        },
+        {
+          "id": "bulls-eye",
+          "name": "Bulls Eye",
+          "veg": false
+        },
+        {
+          "id": "live-tea",
+          "name": "Live Tea",
+          "veg": true
+        },
+        {
+          "id": "snacks",
+          "name": "Snacks"
+        }
+      ]
+    },
+    {
+      "id": "salads",
+      "title": "Salads",
+      "items": [
+        {
+          "id": "assorted-green-salad",
+          "name": "Assorted Green Salad",
+          "veg": true
+        },
+        {
+          "id": "russian-salad",
+          "name": "Russian Salad",
+          "veg": true
+        },
+        {
+          "id": "coleslaw-mayonnaise-salad",
+          "name": "Coleslaw Mayonnaise Salad",
+          "veg": true
+        },
+        {
+          "id": "salad-isabella",
+          "name": "Salad Isabella"
+        },
+        {
+          "id": "kachumber-salad",
+          "name": "Kachumber Salad",
+          "veg": true
+        },
+        {
+          "id": "tossed-salad",
+          "name": "Tossed Salad",
+          "veg": true
+        },
+        {
+          "id": "potato-salad",
+          "name": "Potato Salad",
+          "veg": true
+        },
+        {
+          "id": "carrot-salad",
+          "name": "Carrot Salad",
+          "veg": true
+        },
+        {
+          "id": "channa-chat-salad",
+          "name": "Channa Chat Salad",
+          "veg": true
+        },
+        {
+          "id": "beetroot-salad",
+          "name": "Beetroot Salad",
+          "veg": true
+        },
+        {
+          "id": "pasta-salad",
+          "name": "Pasta Salad",
+          "veg": true
+        },
+        {
+          "id": "aloo-anarkali-salad",
+          "name": "Aloo Anarkali Salad",
+          "veg": true
+        },
+        {
+          "id": "hawaiian-salad",
+          "name": "Hawaiian Salad"
+        }
+      ]
+    },
+    {
+      "id": "desserts",
+      "title": "Desserts",
+      "items": [
+        {
+          "id": "fruit-salad",
+          "name": "Fruit Salad"
+        },
+        {
+          "id": "fruit-salad-with-fresh-cream-live",
+          "name": "Fruit Salad with Fresh Cream (Live)"
+        },
+        {
+          "id": "fruit-salad-with-custard-cream",
+          "name": "Fruit Salad with Custard Cream"
+        },
+        {
+          "id": "falooda",
+          "name": "Falooda"
+        },
+        {
+          "id": "fried-ice-cream",
+          "name": "Fried Ice Cream"
+        },
+        {
+          "id": "vanilla-ice-cream",
+          "name": "Vanilla Ice Cream"
+        },
+        {
+          "id": "strawberry-ice-cream",
+          "name": "Strawberry Ice Cream"
+        },
+        {
+          "id": "chocolate-ice-cream",
+          "name": "Chocolate Ice Cream"
+        },
+        {
+          "id": "pista-ice-cream",
+          "name": "Pista Ice Cream"
+        },
+        {
+          "id": "butterscotch-ice-cream",
+          "name": "Butterscotch Ice Cream"
+        },
+        {
+          "id": "sundae",
+          "name": "Sundae"
+        },
+        {
+          "id": "kulfi",
+          "name": "Kulfi"
+        },
+        {
+          "id": "cassata",
+          "name": "Cassata"
+        },
+        {
+          "id": "gola-ice",
+          "name": "Gola Ice"
+        },
+        {
+          "id": "snow-ice",
+          "name": "Snow Ice"
+        },
+        {
+          "id": "hot-jilebi",
+          "name": "Hot Jilebi"
+        },
+        {
+          "id": "gulab-jamun",
+          "name": "Gulab Jamun"
+        },
+        {
+          "id": "gulab-jamun-with-fresh-cream",
+          "name": "Gulab Jamun with Fresh Cream"
+        },
+        {
+          "id": "carrot-halwa",
+          "name": "Carrot Halwa"
+        },
+        {
+          "id": "banana-halwa",
+          "name": "Banana Halwa"
+        },
+        {
+          "id": "hot-chocolate-punch",
+          "name": "Hot Chocolate Punch"
+        },
+        {
+          "id": "chocolate-fountain",
+          "name": "Chocolate Fountain"
+        },
+        {
+          "id": "queen-of-the-pudding",
+          "name": "Queen of the Pudding"
+        },
+        {
+          "id": "biscuit-pineapple-pudding",
+          "name": "Biscuit Pineapple Pudding"
+        },
+        {
+          "id": "tapioca-pudding",
+          "name": "Tapioca Pudding"
+        },
+        {
+          "id": "chocolate-cream-triple-pudding",
+          "name": "Chocolate Cream Triple Pudding"
+        },
+        {
+          "id": "pineapple-souffle",
+          "name": "Pineapple Souffle"
+        },
+        {
+          "id": "baked-pineapple-souffle",
+          "name": "Baked Pineapple Souffle"
+        },
+        {
+          "id": "coconut-souffle",
+          "name": "Coconut Souffle"
+        },
+        {
+          "id": "white-chocolate-souffle",
+          "name": "White Chocolate Souffle"
+        },
+        {
+          "id": "mango-cheese-cake",
+          "name": "Mango Cheese Cake"
+        },
+        {
+          "id": "caramel-bavarian-cream",
+          "name": "Caramel Bavarian Cream"
+        },
+        {
+          "id": "granita",
+          "name": "Granita"
+        }
+      ],
+      "image": "menu/desserts.webp"
+    }
+  ],
+  "menuPresets": [
+    {
+      "title": "Traditional Sadya",
+      "note": "On banana leaf, with five payasams",
+      "items": [
+        "upperi",
+        "sarkkaravaratty",
+        "parippum-neyyum",
+        "inji-curry",
+        "naranga-achar",
+        "manga-achar",
+        "pachadi",
+        "kichadi",
+        "kalan",
+        "olan",
+        "avial",
+        "thoran",
+        "erissery",
+        "koottu-curry",
+        "thakkali-curry",
+        "kootherissery",
+        "masala-curry",
+        "sambar",
+        "pulissery",
+        "rasam",
+        "thairu",
+        "kondattam",
+        "mulaku",
+        "moru",
+        "rice-ponni",
+        "cherumani-kuthari",
+        "pappadam",
+        "pazham",
+        "palada-payasam",
+        "parippu-payasam",
+        "gothambu-payasam",
+        "pazham-payasam",
+        "semiya-payasam"
+      ]
+    },
+    {
+      "title": "Malabar Wedding",
+      "note": "Snacks, dum biriyani, al faham and souffle",
+      "items": [
+        "unnakkaya",
+        "kilikkoodu",
+        "chicken-pillow",
+        "wheat-coin-porotta",
+        "malabar-dum-biriyani",
+        "ghee-rice",
+        "al-faham-arabian",
+        "kubboos",
+        "kachumber-salad",
+        "falooda",
+        "pineapple-souffle"
+      ]
+    },
+    {
+      "title": "Reception Buffet",
+      "note": "Soup, starters, biriyani, grills and desserts",
+      "items": [
+        "sweet-corn-chicken-soup",
+        "chicken-lollipop",
+        "veg-spring-roll",
+        "chicken-biriyani",
+        "veg-pulav",
+        "grilled-fish",
+        "russian-salad",
+        "fried-ice-cream",
+        "chocolate-fountain"
+      ]
+    }
   ],
   "url": "https://all-in-one-event-management-mattann.vercel.app"
 }
