@@ -4,7 +4,7 @@
   "shortName": "All In One",
   "descriptor": "Events",
   "variant": "events",
-  "headline": "Stages, décor and every detail — handled.",
+  "headline": "Every celebration, all in one.",
   "address": "All in one EVENTS, Mattannur, Kotheri, Keralam 670702",
   "area": "Mattannur",
   "city": "Mattannur",
@@ -106,17 +106,7 @@
     ],
     "logoMark": "brand/logo-mark.png",
     "ogImage": "og-image.jpg",
-    "brandDir": "brand",
-    "reel": {
-      "src": "videos/reel.mp4",
-      "poster": "videos/reel.webp",
-      "alt": "Outdoor wedding venue at night under a canopy of fairy lights, with a red carpet aisle to the stage"
-    }
-  },
-  "serviceImages": {
-    "wedding-catering": "menu/sadya-wide.webp",
-    "event-management": "gallery/decor-02.webp",
-    "bulk-catering": "gallery/decor-04.webp"
+    "brandDir": "brand"
   },
   "menu": [
     {
@@ -1401,5 +1391,6 @@
       ]
     }
   ],
+  "tagline": "Décor, stages and catering — all in one.",
   "url": "https://all-in-one-event-management-mattann.vercel.app"
 }
