@@ -3,6 +3,8 @@
   "name": "All IN ONE EVENT MANAGEMENT",
   "shortName": "All IN ONE",
   "descriptor": "Event Management",
+  "variant": "events",
+  "headline": "Stages, décor and every detail — handled.",
   "address": "All in one EVENTS, Mattannur, Kotheri, Keralam 670702",
   "area": "Mattannur",
   "city": "Mattannur",
@@ -23,10 +25,10 @@
     {
       "name": "Nived",
       "rating": 5,
-      "quote": "Highly recommend. The crowd management was excellent, and all our guests had a fantastic time. Thank you for making our event a huge success!\""
+      "quote": "Highly recommend. The crowd management was excellent, and all our guests had a fantastic time. Thank you for making our event a huge success!"
     },
     {
-      "name": "rajeshthazheveetil@gmail.com tv",
+      "name": "Rajesh T.",
       "rating": 5,
       "quote": "Great experience with this awesome event team. They managed our reception well planned and execution. Thanks alot"
     },
