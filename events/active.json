@@ -5,8 +5,7 @@
   "descriptor": "Events",
   "variant": "events",
   "headline": "Every celebration, all in one.",
-  "address": "All in one EVENTS, Mattannur, Kotheri, Keralam 670702",
-  "area": "Kotheri",
+  "address": "All In One Events, Mattannur, Kannur 670702",
   "city": "Mattannur",
   "district": "Kannur",
   "region": "Kerala",
@@ -1392,5 +1391,11 @@
     }
   ],
   "tagline": "Décor, stages and catering — all in one.",
+  "serviceAreas": [
+    "Mattannur",
+    "Kannur",
+    "Kerala"
+  ],
+  "serviceNote": "Service across Kerala",
   "url": "https://all-in-one-event-management-mattann.vercel.app"
 }
